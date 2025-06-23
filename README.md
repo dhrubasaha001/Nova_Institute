@@ -32,10 +32,7 @@ A modern, full-stack educational institute management portal built with TypeScri
 
 ---
 ### 🔧 Setup
-
 ```bash
 pnpm i
-Then
-```bash
 pnpm dev
 
